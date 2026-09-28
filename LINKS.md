@@ -3,6 +3,7 @@
 - 公開店面：https://ryy394197-bot.github.io/earnbot-shop/
 
 ## 商品（Gumroad）
+- [20260928 165415 737844 affiliate disclosure pack](https://ryyverse7.gumroad.com/l/ivzzna) — Gumroad
 - [20260928 161126 146435 affiliate disclosure pack](https://ryyverse7.gumroad.com/l/tfkqck) — Gumroad
 - [20260928 150607 281168 affiliate disclosure pack](https://ryyverse7.gumroad.com/l/wbkztc) — Gumroad
 - [20260912 055012 139740 affiliate disclosure pack](https://ryyverse7.gumroad.com/l/kzvgyb) — Gumroad
