@@ -2,4 +2,4 @@
 
 自動上架店面（Gumroad 備用通道）。
 
-- 最新：[聯盟行銷揭露與文章包](products/20261015_214455_710454_affiliate_disclosure_pack.md)
+- 最新：[聯盟行銷揭露與文章包](products/20260912_044914_214004_affiliate_disclosure_pack.md)
