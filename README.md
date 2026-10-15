@@ -1,7 +1,5 @@
 # EarnBot Shop
 
-自動維護的公開店面：商品連到 Gumroad，工具連到 GitHub。
+自動上架店面（Gumroad 備用通道）。
 
-- Site: https://ryy394197-bot.github.io/earnbot-shop/
-- Sitemap: https://ryy394197-bot.github.io/earnbot-shop/sitemap.xml
-- RSS: https://ryy394197-bot.github.io/earnbot-shop/feed.xml
+- 最新：[包含：免費可公開的 5 條提示詞、完整版有什麼（至少 20 條方向）、定價 NT$99–199、Gumroad 短/長文案、禁止保證暴利。繁中。](products/20260807_035559_提示詞包.md)
