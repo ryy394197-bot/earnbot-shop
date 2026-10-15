@@ -3,6 +3,9 @@
 - 公開店面：https://ryy394197-bot.github.io/earnbot-shop/
 
 ## 商品（Gumroad）
+- [20260928 165415 737844 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_165415_737844_affiliate_disclosure_pack.md) — GitHub 店面
+- [20260928 171722 710411 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_171722_710411_lead_magnet_free.md) — GitHub 店面
+- [20260928 195101 704533 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_195101_704533_affiliate_disclosure_pack.md) — GitHub 店面
 - [20260928 203507 094718 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_203507_094718_lead_magnet_free.md) — GitHub 店面
 - [20260928 205639 821609 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_205639_821609_lead_magnet_free.md) — GitHub 店面
 - [20260928 205658 089219 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260928_205658_089219_affiliate_disclosure_pack.md) — GitHub 店面
@@ -16,9 +19,6 @@
 - [20260929 224514 090874 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260929_224514_090874_affiliate_disclosure_pack.md) — GitHub 店面
 - [20261015 174820 780369 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261015_174820_780369_affiliate_disclosure_pack.md) — GitHub 店面
 - [20260929 235133 740815 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260929_235133_740815_affiliate_disclosure_pack.md) — GitHub 店面
-- [20260929 235133 740815 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260929_235133_740815_lead_magnet_free.md) — GitHub 店面
-- [20260930 001456 812563 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260930_001456_812563_lead_magnet_free.md) — GitHub 店面
-- [20260930 012035 859612 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260930_012035_859612_affiliate_disclosure_pack.md) — GitHub 店面
 
 ## 開源工具
 - （尚無公開工具）
