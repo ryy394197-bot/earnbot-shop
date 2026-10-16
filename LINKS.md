@@ -3,6 +3,7 @@
 - 公開店面：https://ryy394197-bot.github.io/earnbot-shop/
 
 ## 商品（Gumroad）
+- [20261016 084819 815547 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_084819_815547_lead_magnet_free.md) — GitHub 店面
 - [20261016 080331 426984 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_080331_426984_affiliate_disclosure_pack.md) — GitHub 店面
 - [20261016 063508 975120 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_063508_975120_affiliate_disclosure_pack.md) — GitHub 店面
 - [20261016 042339 513242 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_042339_513242_affiliate_disclosure_pack.md) — GitHub 店面
@@ -18,7 +19,6 @@
 - [20260807 035552 指南 JSON YAML 格式檢查 CLI](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260807_035552_指南_JSON_YAML_格式檢查_CLI.md) — GitHub 店面
 - [20260807 035559 提示詞包](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260807_035559_提示詞包.md) — GitHub 店面
 - [20260912 042207 076177 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260912_042207_076177_lead_magnet_free.md) — GitHub 店面
-- [20260912 044914 214004 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260912_044914_214004_affiliate_disclosure_pack.md) — GitHub 店面
 
 ## 開源工具
 - （尚無公開工具）
