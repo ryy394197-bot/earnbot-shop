@@ -3,6 +3,7 @@
 - 公開店面：https://ryy394197-bot.github.io/earnbot-shop/
 
 ## 商品（Gumroad）
+- [20261020 051111 457868 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261020_051111_457868_lead_magnet_free.md) — GitHub 店面
 - [20261020 045855 492533 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261020_045855_492533_lead_magnet_free.md) — GitHub 店面
 - [20261016 084819 815547 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_084819_815547_lead_magnet_free.md) — GitHub 店面
 - [20261016 080331 426984 affiliate disclosure pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261016_080331_426984_affiliate_disclosure_pack.md) — GitHub 店面
@@ -18,7 +19,6 @@
 - [20261015 233322 985586 lead magnet free](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261015_233322_985586_lead_magnet_free.md) — GitHub 店面
 - [20260805 123951 提示詞包](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260805_123951_提示詞包.md) — GitHub 店面
 - [20260807 035552 指南 JSON YAML 格式檢查 CLI](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260807_035552_指南_JSON_YAML_格式檢查_CLI.md) — GitHub 店面
-- [20260807 035559 提示詞包](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260807_035559_提示詞包.md) — GitHub 店面
 
 ## 開源工具
 - （尚無公開工具）
