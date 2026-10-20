@@ -24,4 +24,5 @@
 - （尚無公開工具）
 
 ## 媒合
+- [ComputeGate 媒合站](https://github.com/ryy394197-bot/computegate-site/releases/tag/v0.1.0)
 - [ComputeGate 媒合站](https://ryy394197-bot.github.io/computegate-site/)
