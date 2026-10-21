@@ -1,7 +1,5 @@
 # EarnBot Shop
 
-自動維護的公開店面：商品連到 Gumroad，工具連到 GitHub。
+自動上架店面（Gumroad 備用通道）。
 
-- Site: https://ryy394197-bot.github.io/earnbot-shop/
-- Sitemap: https://ryy394197-bot.github.io/earnbot-shop/sitemap.xml
-- RSS: https://ryy394197-bot.github.io/earnbot-shop/feed.xml
+- 最新：[免費導流磁鐵：零成本合法副業檢查清單](products/20261021_085018_954984_lead_magnet_free.md)
