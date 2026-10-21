@@ -3,8 +3,8 @@
 - 公開店面：https://ryy394197-bot.github.io/earnbot-shop/
 
 ## 商品（Gumroad）
+- [零成本合法副業檢查清單（免費） / Zero-cost legal side-project checklist (free)](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261021_104201_685268_lead_magnet_free.md) — GitHub（免費閱讀）
 - [聯盟行銷揭露與文章範本包 / Affiliate disclosure & article kit](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261021_095654_936727_affiliate_disclosure_pack.md) — GitHub（免費閱讀）
-- [零成本合法副業檢查清單（免費） / Zero-cost legal side-project checklist (free)](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20261021_085018_954984_lead_magnet_free.md) — GitHub（免費閱讀）
 - [繁中提示詞包 / Traditional-Chinese prompt pack](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260805_123951_提示詞包.md) — GitHub（免費閱讀）
 - [指南 JSON YAML 格式檢查 CLI](https://github.com/ryy394197-bot/earnbot-shop/blob/main/products/20260807_035552_指南_JSON_YAML_格式檢查_CLI.md) — GitHub（免費閱讀）
 
