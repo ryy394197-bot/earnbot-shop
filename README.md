@@ -2,4 +2,4 @@
 
 自動上架店面（Gumroad 備用通道）。
 
-- 最新：[免費導流磁鐵：零成本合法副業檢查清單](products/20261022_150635_401586_lead_magnet_free.md)
+- 最新：[聯盟行銷揭露與文章包](products/20261022_150635_303138_affiliate_disclosure_pack.md)
